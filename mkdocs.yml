@@ -1,0 +1,7 @@
+site_name: ED Survival Guide
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Survival Guide: survival-guide.md
