@@ -1,4 +1,5 @@
-<img src="media/image1.png" style="width:2.82812in;height:1.5in"
+<img src="docs/assets/media/image1.png"
+style="width:2.82812in;height:1.5in"
 alt="A logo for a hospital AI-generated content may be incorrect." />
 
 **Emergency Department - QHB**

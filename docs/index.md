@@ -1,3 +1,3 @@
-<meta http-equiv="refresh" content="0; url=survival-guide/" />
+# QHB ED Survival Guide
 
-If you are not redirected automatically, open the [Survival Guide](survival-guide/).
+Open the [Survival Guide](survival-guide/).
