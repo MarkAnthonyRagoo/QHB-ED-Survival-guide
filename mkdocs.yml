@@ -1,6 +1,11 @@
-site_name: ED Survival Guide
+site_name: QHB ED Survival Guide
 theme:
   name: material
 
 nav:
-  - Survival Guide: survival-guide.md
+  - How to Refer: how-to-refer.md
+  - Numbers: numbers.md
+  - Pathways & Special Cases: pathways.md
+  - Trauma & Burns: trauma.md
+  - Hospitals & Networks: hospitals.md
+  - About: about.md
